@@ -5,7 +5,7 @@
 <!-- Header -->
 <h2 align="center">iTermLink</h2>
   <p align="center">
-    iTerm2 api wrapper for easier interfacing and extensions of certain functionality.
+    iTerm2 api wrapper for easier interfacing and extensions of the terminal's functionality.
     <br />
     <br />
     Status: <em>in progress</em>
